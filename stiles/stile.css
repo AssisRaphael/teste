@@ -1,0 +1,11 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: 100;
+    background-color: rgb(121, 126, 131);
+}
+
+section {
+    background-color: aqua;
+    font: 200;
+    align-items: center;
+}
